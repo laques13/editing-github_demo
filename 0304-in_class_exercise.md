@@ -16,7 +16,7 @@ March 4th, 2015
 
 7. Patients should try,if possible, to avoid going up and down stairs themselves.
 8. The candidate decided to launch her campaign formally.
-9. We decided actually to enforce the law.
+9. We actually decided to enforce the law.
 
 ## Dangling Modifiers:
 
