@@ -14,15 +14,15 @@ March 4th, 2015
 
 ## Split Infinitives:
 
-1. Patients should try to if possible avoid going up and down stairs themselves.
-2. The candidate decided to formally launch her campaign.
-3. We decided actually to enforce the law.
+7. Patients should try to if possible avoid going up and down stairs themselves.
+8. The candidate decided to formally launch her campaign.
+9. We decided actually to enforce the law.
 
 ## Dangling Modifiers:
 
-1. Opening the window to let out a huge bumblebee, the car accidentally swerved into an oncoming car.
-2. After completing seminary training, women's access to the pulpit has often been denied.
-3. Deciding to join the navy, the recruiter enthusiastically shook Joe's hand.
-4. Upon entering the doctor's office, a skeleton caught my attention.
-5. To please the children, some fireworks were set off a day early.
-6. Though only sixteen, UCLA accepted Martha's application.
+10. Opening the window to let out a huge bumblebee, the car accidentally swerved into an oncoming car.
+11. After completing seminary training, women's access to the pulpit has often been denied.
+12. Deciding to join the navy, the recruiter enthusiastically shook Joe's hand.
+13. Upon entering the doctor's office, a skeleton caught my attention.
+14. To please the children, some fireworks were set off a day early.
+15. Though only sixteen, UCLA accepted Martha's application.
