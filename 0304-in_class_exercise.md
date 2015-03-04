@@ -10,7 +10,7 @@ March 4th, 2015
 3. The soccer player returned to the clinic where in he had undergone emergency surgery in 2004 in a limousine sent by Adidas.
 4. Garvins has pictures of many comedians that have performed hanging on the walls. 
 5. The robber was described as a six-foot-tall man, with a mustache, weighing 150 pounds.
-6. The exchange students we met for coffee occasionally questioned us about our latest slang.
+6. The exchange students we met for coffee questioned us about the latest slang.
 
 ## Split Infinitives:
 
